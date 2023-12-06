@@ -1,0 +1,41 @@
+{
+    "pleaseWait": "Mohon menunggu",
+    "loading": "Memuat...",
+    "scanning": "Memindai...",
+    "errorOccurred": "Terjadi kesalahan",
+    "unableToConnectToServer": "Tidak dapat menghubungi server.",
+    "permissionNotGranted": "Permission Not Granted.",
+    "doubleBackPressedToExit": "Tekan sekali lagi untuk keluar.",
+    "close": "Tutup",
+    "cancel": "Batal",
+    "ok": "Ok",
+    "refresh": "Refresh",
+    "dateRange": "Rentang Tanggal",
+    "dateRangeSeparator": "s/d",
+    "dateFormat": "dd MMM yyyy",
+    "noCamera": "Tidak Ada Kamera",
+    "tryAgain": "Coba Lagi",
+    "exit": "Keluar",
+
+    "send": "Kirim",
+    "receiver": "Penerima",
+    "sendSuccess": "Transfer sukses dengan hash:",
+    "openExplorer": "Open Explorer",
+    "image": "Gambar",
+    "tapToView": "Ketuk untuk melihat {item}",
+    "doubleTapToViewFullImage": "Ketuk dua kali untuk melihat gambar penuh",
+    "errorNotEnoughBalance": "Saldo tidak cukup",
+
+    "signIn": "Masuk",
+    "signUp": "Daftar",
+    "password": "Kata Sandi",
+    "errorInvalidCredential": "Email atau Kata Sandi yang anda masukkan kurang tepat",
+    "errorEmailEmpty": "Email tidak boleh kosong",
+    "errorInvalidEmail": "Invalid email",
+    "errorPasswordEmpty": "Kata Sandi tidak boleh kosong",
+    "signUpSuccess": "Perika email anda untuk melanjutkan pendaftaran.",
+
+
+    "totalBalance": "Total Balance",
+    "receive": "Terima"
+}

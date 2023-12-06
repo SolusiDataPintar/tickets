@@ -1,0 +1,14 @@
+{
+    "go.toolsEnvVars": {
+        "GOPRIVATE": "github.com/SolusiDataPintar/*"
+    },
+    "terminal.integrated.env.linux": {
+        "GOPRIVATE": "github.com/SolusiDataPintar/*"
+    },
+    "terminal.integrated.env.osx": {
+        "GOPRIVATE": "github.com/SolusiDataPintar/*"
+    },
+    "terminal.integrated.env.windows": {
+        "GOPRIVATE": "github.com/SolusiDataPintar/*"
+    }
+}
